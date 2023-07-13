@@ -15,7 +15,7 @@ Instagram ( Still figuring out how to use it ) - https://www.instagram.com/debad
 
 <!-- Facebook ( Mark knows everthing )  - https://www.facebook.com/debaditya-singh/ -->
 
-Twitter ( Never been on trending ) - https://twitter.com/debaditya5972/
+Twitter ( Never been on trending ) - https://www.twitter.com/debaditya5972/
 
 <!-- daily.dev ( Yes I write too. Sometimes ) - https://daily.dev/debaditya_139/ -->
 
