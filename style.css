@@ -262,3 +262,57 @@ body{
     left: 35%;
     bottom: -15%;
 }
+
+.review-box{
+    position: absolute;
+    width: 30rem;
+    padding: 1rem 2rem;
+    bottom: 5%;
+    left: -25%;
+    border-radius: .5rem;
+    background: var(--alpha-primary-color);
+    backdrop-filter: blur(0.4rem);
+}
+
+.reviewer-info{
+    display: flex;
+    gap: 1rem;
+}
+
+.reviewer-img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 100%;
+}
+
+.reviewer-rating{
+    display: flex;
+    gap: .1rem;
+    font-size: .7rem;
+    align-items: center;
+}
+.reviewer-rating i{
+    color: var(--rating-color);
+}
+
+.reviewer-name{
+    font-weight: 400;
+    font-size: 1.2rem;
+    margin-top: .50rem ;
+}
+
+.review-body{
+    display: flex;
+    gap: 1rem;
+    margin-top: .5rem;
+    padding: 1rem 0;
+}
+
+.review-body i{
+    font-size: 1.4rem;
+    color: var(--secondary-text-color);
+}
+
+.review{
+    line-height: 1.75rem;
+}
