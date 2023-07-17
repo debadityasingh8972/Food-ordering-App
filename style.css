@@ -415,6 +415,10 @@ section{
     transform: translate(-50%, -50%);
 }
 
+.food-image-container{
+    transform: scale(0.8);
+}
+
 .food-img:nth-child(1){
     width: 20rem;
     top: 50%;
