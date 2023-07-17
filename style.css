@@ -31,6 +31,7 @@
 
 html{
     font-size:16px;
+    overflow-x: hidden;
 }
 
 body{
@@ -543,4 +544,29 @@ section{
 
 .resturant:hover{
     background: var(--card-hover-bg-color);
+}
+
+.leaf-layer{
+    position: absolute;
+    width: 10rem;
+    height: 10rem;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.leaf-layer img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.leaf-layer.right{
+    right: -5%;
+    top: 25%;
+    transform: scale(0.9) rotate(30deg);
+}
+.leaf-layer.left{
+    left: -5%;
+    bottom: -5%;
+    transform: scale(1) rotate(180deg);
 }
