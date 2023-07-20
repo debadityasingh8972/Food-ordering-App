@@ -594,3 +594,23 @@ section{
     margin: 2rem 0 4rem;
     line-height: 2rem;
 }
+
+.service{
+    background-color: var(--primary-color);
+    border-radius: .5rem;
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    box-shadow: 0 .5rem 1rem var(--box-shadow-color);
+}
+
+.service-title{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.service-img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: .2rem;
+}
